@@ -1,12 +1,36 @@
-
-
+Here’s the updated **GitHub README.md** with your provided code snippet included:
 
 # 👋 Hi there! I'm **Marouane Katfi**
 
-[![mkatfi's 42 stats](https://badge.mediaplus.ma/levi/mkatfi)](https://github.com/oakoudad/badge42)
----
-📍 📧 **marouane.katfi2@gmail.com**
+📍 📧 **marouane.katfi96@gmail.com** 
 🔗 [**LinkedIn**](https://linkedin.com/in/marouane-katfi-61363921b)
+
+---
+
+<div align="center" style="background-color: #251C31 !important; color: white; padding: 20px; border-radius: 10px;">
+
+  <img width="100%" alt="Hello World" src="https://github.com/orcaprog/orcaprog/blob/main/orca.png">
+
+  <h2>Hi, I'm Marouane 👋</h2>
+  <p>
+    I'm a web developer and a software developer in training, passionate about building efficient and user-friendly applications. Always eager to learn and take on new challenges in the tech world!
+  </p>
+
+  <br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,docker,react,tailwind,styledcomponents,nginx,bash,linux" />
+  </a>
+</p>
+
+[![mkatfi's 42 stats](https://badge.mediaplus.ma/levi/mkatfi)](https://github.com/oakoudad/badge42)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/mkatfi)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
 
 ---
 
@@ -61,6 +85,12 @@ My journey at the **1337 School**, part of the prestigious **42 Network**, has r
 
 ## 📫 **Let’s Connect!**
 
-Feel free to reach out for collaboration, opportunities, or just to chat about technology and design. Let's create something amazing together! 🚀  
-
+Feel free to reach out for collaboration, opportunities, or just to chat about technology and design. Let's create something amazing together! 🚀
 ```
+
+### Key Adjustments:
+1. Integrated your `div` with slight edits (updated to reflect your name and focus).
+2. Retained your **badge stats** and updated the **LeetCode stats** with your name (`mkatfi`).
+3. Ensured alignment with the rest of the profile design.
+
+You can copy and paste this into a `README.md` file in your GitHub profile repository. Let me know if you’d like any further tweaks! 😊
