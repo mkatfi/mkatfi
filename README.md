@@ -3,9 +3,10 @@
 
 # 👋 Hi there! I'm **Marouane Katfi**
 
+[![mkatfi's 42 stats](https://badge.mediaplus.ma/levi/mkatfi)](https://github.com/oakoudad/badge42)
+---
 📍 📧 **marouane.katfi2@gmail.com**
 🔗 [**LinkedIn**](https://linkedin.com/in/marouane-katfi-61363921b)
-[![mkatfi's 42 stats](https://badge.mediaplus.ma/levi/mkatfi)](https://github.com/oakoudad/badge42)
 
 ---
 
