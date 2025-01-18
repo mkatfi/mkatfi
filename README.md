@@ -1,9 +1,7 @@
-Here’s the updated **GitHub README.md** with your provided code snippet included:
-
 # 👋 Hi there! I'm **Marouane Katfi**
 
-📍 📧 **marouane.katfi96@gmail.com** 
 🔗 [**LinkedIn**](https://linkedin.com/in/marouane-katfi-61363921b)
+📍 📧 **marouane.katfi96@gmail.com** 
 
 ---
 
