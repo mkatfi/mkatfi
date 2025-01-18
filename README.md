@@ -14,9 +14,10 @@ Here’s the updated **GitHub README.md** with your provided code snippet includ
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,docker,react,tailwind,styledcomponents,nginx,bash,linux" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,sass,less,bootstrap,react,nextjs,nodejs,python,docker,tailwind,styledcomponents,nginx,bash,linux,figma,npm" />
   </a>
 </p>
+
 
 [![mkatfi's 42 stats](https://badge.mediaplus.ma/levi/mkatfi)](https://github.com/oakoudad/badge42)
 
@@ -54,14 +55,13 @@ My journey at the **1337 School**, part of the prestigious **42 Network**, has r
 
 ---
 
-## 🛠️ **Technical Skills**
+### 🛠️ Technical Skills
 
-- **Languages:** C, C++, JavaScript  
-- **Frameworks/Libraries:** React.js, TailwindCSS  
-- **Tools:** Docker, Git/GitHub, Figma  
-- **Web Development:** HTML, CSS, Responsive Design  
-- **Soft Skills:** Team Collaboration, Creativity, Problem Solving  
-
+- **Languages:** C, C++, JavaScript, Python, HTML, CSS  
+- **Frameworks/Libraries:** React.js, Next.js, TailwindCSS, Bootstrap, Styled-Components, Sass, Less  
+- **Tools:** Docker/Docker Compose, Git/GitHub, NPM, Figma, Bash, Nginx , Microsoft Excel, Word, PowerPoint  
+- **Soft Skills:** Problem-solving, Team spirit, Responsive Web Design  
+- **Additional Expertise:** Video Editing/Montage  
 ---
 
 ## ✨ **Fun Facts**
