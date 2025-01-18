@@ -63,5 +63,4 @@ My journey at the **1337 School**, part of the prestigious **42 Network**, has r
 
 Feel free to reach out for collaboration, opportunities, or just to chat about technology and design. Let's create something amazing together! 🚀  
 
-[![mkatfi's 42 stats](https://badge.mediaplus.ma/levi/mkatfi)](https://github.com/oakoudad/badge42)
 ```
