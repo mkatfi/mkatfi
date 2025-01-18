@@ -9,8 +9,11 @@ Here’s the updated **GitHub README.md** with your provided code snippet includ
 
 <div align="center" style="background-color: #251C31 !important; color: white; padding: 20px; border-radius: 10px;">
   <img width="100%" alt="Hello World" src="https://github.com/mkatfi/projects-JavaScript/blob/main/Project_Tic-Tac-Toe/image/mar.png">
-  [![mkatfi's 42 stats](https://badge.mediaplus.ma/levi/mkatfi)](https://github.com/oakoudad/badge42)
+
+[![mkatfi's 42 stats](https://badge.mediaplus.ma/levi/mkatfi)](https://github.com/oakoudad/badge42)
+
 </div>
+
 ## 🚀 **About Me**
 
 I'm a forward-thinking **Software Developer** with expertise in **system-level programming (C/C++)** and modern web technologies like **JavaScript, React, and TailwindCSS**. I specialize in creating responsive, user-centered applications and have a passion for **UI/UX design** and **audiovisual content creation**.  
