@@ -1,8 +1,14 @@
-# 👋 Hi there! I'm **Marouane Katfi**
+# 👋 Hi, I'm Marouane Katfi
 
-🔗 [**LinkedIn**](https://linkedin.com/in/marouane-katfi-61363921b)
-📍 📧 **marouane.katfi96@gmail.com** 
-[**Sitweb**](https://marouane-katfi.vercel.app/)
+
+
+---
+
+## 🌐 Online Presence
+
+- 🔗 [**Portfolio Website**](https://marouane-katfi.vercel.app)
+- 💼 [**LinkedIn**](https://linkedin.com/in/marouane-katfi-61363921b)
+- 📫 **Email:** marouane.katfi96@gmail.com
 
 ---
 
