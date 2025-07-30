@@ -6,7 +6,7 @@
 
 ## 🌐 Online Presence
 
-- 🔗 [**Portfolio Website**](https://marouane-katfi.vercel.app)
+- 🌐 [**Portfolio Website**](https://marouane-katfi.vercel.app)
 - 💼 [**LinkedIn**](https://linkedin.com/in/marouane-katfi-61363921b)
 - 📫 **Email:** marouane.katfi96@gmail.com
 
