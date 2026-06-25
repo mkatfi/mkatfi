@@ -7,7 +7,7 @@
 ---
 
 <div align="center" style="background-color: #251C31 !important; color: white; padding: 20px; border-radius: 10px;">
-  <img width="100%" alt="Hello World" src="https://github.com/mkatfi/projects-JavaScript/blob/main/Project_Tic-Tac-Toe/image/mar.png">
+  <img width="100%" alt="Hello World" src="https://github.com/mkatfi/configuration-VM/blob/main/mar-one-image-back.png">
 
   <br>
 
